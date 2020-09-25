@@ -1233,7 +1233,6 @@ https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8
 https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Sai Global Harmony Bhajan
 http://stream.radiosai.net:8000
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="BDIX TVs", ## BDIX TV SERVERS ##
 #EXTINF: -1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TVs", 1_BTV
 http://45.249.187.238:8081/hls/new24.m3u8
 #EXTINF: -1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TVs", 1_ATN Bangla
