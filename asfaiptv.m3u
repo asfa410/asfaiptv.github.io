@@ -1,13 +1,13 @@
 #EXTM3U 
-#EXTINF: -1 tvg-name="GAZI TV HD" group-title="BANGLA", GAZI TV HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", GAZI TV HD
 http://103.214.202.218:8081/live/gazi-bd/chunks.m3u8
-#EXTINF: -1 tvg-name="DBC NEWS HD" group-title="BANGLA", DBC NEWS HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", DBC NEWS HD
 http://103.214.202.218:8081/live/dbc/chunks.m3u8
-#EXTINF: -1 tvg-name="EKATTOR TV HD" group-title="BANGLA", EKATTOR TV HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", EKATTOR TV HD
 http://103.214.202.218:8081/live/ekattor-bd/chunks.m3u8
-#EXTINF: -1 tvg-name="NEWS 24 HD" group-title="BANGLA", NEWS 24 HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", NEWS 24 HD
 http://103.214.202.218:8081/live/news24-24/chunks.m3u8
-#EXTINF: -1 tvg-name="INDEPENDENT TV" group-title="BANGLA", INDEPENDENT TV
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA", INDEPENDENT TV
 http://103.214.202.218:8081/live/independent/chunks.m3u8
 #EXTINF: -1 tvg-name="JAMUNA TV" group-title="BANGLA", JAMUNA TV
 http://103.214.202.218:8081/live/jamuna/chunks.m3u8
@@ -541,9 +541,7 @@ http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92Y
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
 #EXTINF: -1 tvg-name="Fashion TV" group-title="BACKUP - ALL TV MIX", Fashion TV
 https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="BANGLA ENT.", AMARNETTV:INTERNET TV FOR ALL
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/ox7r5yfb8xadaph/btv.jpg" group-title="BANGLA ENT.", BTV [BD]
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="BANGLA ENT.", BTV [BD]
 http://182.48.69.162:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/btv-local-sg-220-org.stream/chunks.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png" group-title="BANGLA ENT.", Sangsad TV [BD]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8?@amarnettv.live
@@ -847,9 +845,7 @@ http://m-c01-j2apps.s.llnwi.net/hls/0950.DabanggTV.in_480p/index.m3u8
 http://103.204.164.136:1935/live/smil:careworld.smil/playlist.m3u8
 #EXTINF: -1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/DD_National.png" group-title="IND. ENT.", DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/Stream(01)/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="IND. MOVIES", ## INDIAN MOVIES ##
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
-#EXTINF: -1 tvg-logo="https://od.lk/s/NjZfMjkwNjEyOTBf/BP.jpg" group-title="IND. MOVIES", Shemaroo Premiere HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="IND. MOVIES", Shemaroo Premiere HD
 https://livechannel.shemaroome.com/linearplayout/bollywood-premier-channel/chunklist_1280x720_cf.m3u8
 #EXTINF: -1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="IND. MOVIES", Zee Cinema
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/cinemausa/index.m3u8
@@ -925,9 +921,7 @@ https://m-c09-j2apps.s.llnwi.net/hls/8003.Lollywood.in_480p/index.m3u8?@amarnett
 https://m-c09-j2apps.s.llnwi.net/hls/8002.Kollywood.in_480p/index.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RAkJGW4.jpg" group-title="IND. MOVIES", Mollywood
 https://m-c09-j2apps.s.llnwi.net/hls/8004.Mollywood.in_480p/index.m3u8?@amarnettv.live
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="INFOTAINMENT", ## INFOTAINMENT ##
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
-#EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/15/Viasat_Nature-2014.png" group-title="INFOTAINMENT", Viasat Nature
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="INFOTAINMENT", Viasat Nature
 http://live-ng-01.more.tv/hls/Viasat_Nature_HD/master.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/56/Sony_BBC_Earth.png/140px-Sony_BBC_Earth.png" group-title="INFOTAINMENT", SONY BBC Earth HD [ENGLISH]
 http://198.255.87.59:8080/INDIA_ENGLISH/BBC_EARTH_HD/tracks-v1a1/mono.m3u8?token=test
@@ -1005,9 +999,7 @@ http://wfc.bonus-tv.ru/cdn/wfcint/tracks-v2a1/index.m3u8?@amarnettv.live
 https://sc.id-tv.kz/IDFashion_38_39.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-logo="https://i.imgur.com/5p7CKwi.png" group-title="INFOTAINMENT", HD Fashion & LifeStyle
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="KIDS", ## KIDS ENTERTAINMENT ##
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
-#EXTINF: -1 tvg-logo="https://i.imgur.com/EG2QRMG.png" group-title="KIDS", DURONTO TV HD
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="KIDS", DURONTO TV HD
 http://45.249.187.238:8081/hls/new3.m3u8
 #EXTINF: -1 tvg-logo="http://www.shemarookids.com/img/logo.png" group-title="KIDS", Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
@@ -1047,9 +1039,7 @@ http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8?@amarnett
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Qm3X46H.png" group-title="KIDS", SPACETOON KIDS
 http://stream.spacetoon.com:1935/live/stchannel/smil:livesmil.smil/playlist.m3u8?@amarnettv.live
-#EXTINF: -1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="MUSIC", ## MUSIC ##
-https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oMXI9Dv.png" group-title="MUSIC", GAAN BANGLA HD [BD]
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="MUSIC", GAAN BANGLA HD [BD]
 http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2019/05/Jhankartv.jpg" group-title="MUSIC", Jhankar TV [BD]
 http://23.106.120.42:1934/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jhankartv.stream/live-orgin/jhankartv.stream/chunks.m3u8
@@ -1123,7 +1113,7 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 https://strm.yandex.ru/kal/rmbox/rmbox0.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/0ujfLYr.png" group-title="MUSIC", RU.TV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
-#EXTINF: -1 tvg-logo="https://cdn-profiles.tunein.com/s10227/images/logog.png" group-title="MUSIC", Radio Contact (BE)
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="MUSIC", Radio Contact (BE)
 http://contact-lh.akamaihd.net/i/CONTACT_1@321283/index_1200_av-p.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Sadhin
 http://ample-zeno-03.radiojar.com/8wv4d8g4344tv
@@ -1231,7 +1221,7 @@ https://clubmirchihdlive-lh.akamaihd.net/i/ClubMirchiHDLive_1_1@336269/master.m3
 https://driveradio-lh.akamaihd.net/i/DriveRadio_1@793591/master.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Mirchi - Filmy Mirchi
 https://filmymirchihdliv-lh.akamaihd.net/i/FilmyMirchiHDLive_1_1@336266/master.m3u8
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/s/etxv1fmhxeyl3oy/RadioLive.gif" group-title="RADIO/FM LIVE", Radio Sai Global Harmony Bhajan
+#EXTINF: -1 tvg-logo="https://i.imgur.com/y6ojp9i.png" group-title="RADIO/FM LIVE", Radio Sai Global Harmony Bhajan
 http://stream.radiosai.net:8000
 #EXTINF: -1 tvg-logo="http://45.249.187.238/images/logo.png" group-title="BDIX TVs", 1_BTV
 http://45.249.187.238:8081/hls/new24.m3u8
