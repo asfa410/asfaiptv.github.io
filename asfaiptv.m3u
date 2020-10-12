@@ -97,14 +97,6 @@ http://ccntv.anytv.live:8080/sonyaath/tracks-v1a1/mono.m3u8
 http://195.181.172.83:2200/R-EX/BENGALI_STAR_JALSHA_MOVIES_HD-in/index.m3u8?token=amarnettv.live
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", Zee Bangla Cinema
 http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", R Plus Gold
-https://streamitv.multitvsolution.in/idvo/rplusgold.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", Tollywood
-http://m-c09-j2apps.s.llnwi.net/hls/8005.Tollywood.in.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", ABP Ananda
-https://abp-i.akamaihd.net/hls/live/765530/abpananda/masterhls_1564.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", News Time Bangla
-https://streamitv.multitvsolution.in/idvo/newstimebangla.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/p7eks1U.jpg" group-title="HINDI ENTERTAIN", Star plus
 http://95.111.250.189:25461/live/arifulislam/o9e6fsKhVU/6530.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/hVq49LX.png" group-title="HINDI ENTERTAIN", SONY
@@ -133,8 +125,6 @@ http://95.111.250.189:25461/live/arifulislam/o9e6fsKhVU/6543.m3u8
 http://45.249.187.238:8081/hls/tsl-3.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Enter10 Movies
 http://95.111.250.189:25461/live/arifulislam/o9e6fsKhVU/6804.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", SONY WAH
-http://95.111.250.189:25461/live/arifulislam/o9e6fsKhVU/6541.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", WoW CINEMA
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Bollywood
@@ -160,13 +150,13 @@ https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RvllpXU.jpg" group-title="INFOTAINMENT & LIFESTYLE", Discovery Science [HINDI]
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RvllpXU.jpg" group-title="INFOTAINMENT & LIFESTYLE", Fox Life HINDI
-http://198.255.87.59:8080/INDIA_HINDI/FOX_LIFE_HD/tracks-v1a1/mono.m3u8?token=test
+https://ott.bingebd.com:443/live/ngrp:fox_life_all/chunklist_b2780326.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RvllpXU.jpg" group-title="INFOTAINMENT & LIFESTYLE", Living Foodz HINDI
 http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RvllpXU.jpg" group-title="INFOTAINMENT & LIFESTYLE", Food Channel
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qb9ntHs.png" group-title="INFOTAINMENT & LIFESTYLE", History TV HD
-http://103.214.202.218:8081/live/history/chunks.m3u8
+https://ott.bingebd.com:443/live/ngrp:history_tv_hd_all/chunklist_b8287652.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", Travel XP
 http://198.255.87.59:8080/INDIA_ENGLISH/TRAVEL_XP_HD/tracks-v1a1/mono.m3u8?token=test
 #EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", National Geo
@@ -183,6 +173,10 @@ http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-logo="https://i.imgur.com/GLOUjd6.jpg" group-title="KIDS-CARTOONS", Cartoon Network
 http://45.249.187.238:8081/hls/new14.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", NICK (Bangla)
+https://ott.bingebd.com:443/live/ngrp:nickelodeon_all/chunklist_b2128000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", discovery kids (Hindi)
+https://ott.bingebd.com:443/live/ngrp:discovery_kids_all/chunklist_b1228000.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Disney
 http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Shemaroo Kids
@@ -191,14 +185,8 @@ https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_6
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", TCT Kids
 http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8?@amarnettv.live
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", ANIMAX
-http://45.126.83.51/dr9445/h/h144/01.m3u8?@amarnettv.live
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", AniPlus
-http://210.210.155.35/dr9445/h/h02/01.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", IPL LIVE
 https://www.youtube.com/watch?v=a50gLTFzO60
-#EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", TITAS SPORTS [BD]
-http://103.43.148.202:1934/cZVydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZT00U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1
 http://45.249.187.238:8081/hls/new1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", Sony SIX
@@ -653,3 +641,145 @@ http://64.71.79.181:5124/stream?listening-from-radio-garden=1601020369270
 http://51.255.235.165:5476/;stream.mp3?listening-from-radio-garden=1601020600078
 #EXTINF: -1 tvg-logo="https://i.imgur.com/fVBL8I9.jpg" group-title="FM RADIO MIX", Radio Foorti
 https://node-11.zeno.fm/f0bfdk2w34zuv?rj-ttl=5&rj-tok=AAABdMRV22UAcwucDbg4sNb1IQ
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",BTV World
+https://ott.bingebd.com:443/live/ngrp:btv_world_all/chunklist_b2128000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Sangsad TV
+https://ott.bingebd.com:443/live/ngrp:sangsad_tv_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",ATN Bangla
+https://ott.bingebd.com:443/live/ngrp:atn_bangla_all/chunklist_b2128000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Channel I HD
+https://ott.bingebd.com:443/live/ngrp:channel_i_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Ekushey TV
+https://ott.bingebd.com:443/live/ngrp:ekushey_tv_all/chunklist_b2128000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",NTV
+https://ott.bingebd.com:443/live/ngrp:ntv_all/chunklist_b6647521.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",RTV
+https://ott.bingebd.com:443/live/ngrp:rtv_all/chunklist_b5464165.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Gazi TV
+https://ott.bingebd.com:443/live/ngrp:gazi_tv_all/chunklist_b2128000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Maasranga TV
+https://ott.bingebd.com:443/live/ngrp:maasranga_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Channel 9 HD
+https://ott.bingebd.com:443/live/ngrp:channel_9_all/chunklist_b2581369.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Bangla Vision
+https://ott.bingebd.com:443/live/ngrp:bangla_vision_all/chunklist_b6803851.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Duronto TV
+https://ott.bingebd.com:443/live/ngrp:duronto_tv_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Bijoy TV
+https://ott.bingebd.com:443/live/ngrp:bijoy_tv_all/chunklist_b3514093.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Deepto TV HD
+https://ott.bingebd.com:443/live/ngrp:deepto_tv_all/chunklist_b5698885.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Asian TV
+https://ott.bingebd.com:443/live/ngrp:asian_tv_all/chunklist_b2582637.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Ananda TV
+https://ott.bingebd.com:443/live/ngrp:probashibangla_all/chunklist_b4731924.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Boishakhi TV
+https://ott.bingebd.com:443/live/ngrp:boishakhi_tv_all/chunklist_b4536744.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Bangla TV
+https://ott.bingebd.com:443/live/ngrp:bangla_tv_all/chunklist_b2128000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Desh TV
+https://ott.bingebd.com:443/live/ngrp:ott_desh_tv_mobile/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",SATV
+https://ott.bingebd.com:443/live/ngrp:sa_tv_all/chunklist_b6843908.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Nagorik TV
+https://ott.bingebd.com:443/live/ngrp:nagorik_tv_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Mohona TV
+https://ott.bingebd.com:443/live/ngrp:mohona_tv_all/chunklist_b4535430.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",MY TV
+https://ott.bingebd.com:443/live/ngrp:my_tv_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",ATN News
+https://ott.bingebd.com:443/live/ngrp:atn_news_all/chunklist_b2677541.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Ekattor TV
+https://ott.bingebd.com:443/live/ngrp:ekattor_tv_all/chunklist_b6442363.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",News 24
+https://ott.bingebd.com:443/live/ngrp:news_24_hd_all/chunklist_b6709377.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Independent TV
+https://ott.bingebd.com:443/live/ngrp:independent_tv_all/chunklist_b7342759.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",DBC News
+https://ott.bingebd.com:443/live/ngrp:dbc_news_all/chunklist_b2543940.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Independent TV
+https://ott.bingebd.com:443/live/ngrp:independent_tv_all/chunklist_b7342759.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS" ,Somoy News
+https://ott.bingebd.com:443/live/ngrp:somoy_news_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Jamuna TV
+https://ott.bingebd.com:443/live/ngrp:jamuna_tv_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Channel 24
+https://ott.bingebd.com:443/live/ngrp:channel_24_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Gaan Bangla
+https://ott.bingebd.com:443/live/ngrp:gaan_bangla_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Star Jalsha HD
+https://ott.bingebd.com:443/live/ngrp:star_jalsha_hd_all/chunklist_b8444504.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Zee Bangla HD
+https://ott.bingebd.com:443/live/ngrp:zee_bangla_all/chunklist_b6106524.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Sony Aath
+https://ott.bingebd.com:443/live/ngrp:sony_aath_all/chunklist_b2128000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Colors Bangla HD
+https://ott.bingebd.com:443/live/ngrp:colors_bangla_hd_all/chunklist_b8240824.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Colors Bangla
+https://ott.bingebd.com:443/live/ngrp:colors_bangla_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Jalsha Movies
+https://ott.bingebd.com:443/live/ngrp:jalsha_movies_all/chunklist_b2779909.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Sangeet Bangla
+https://ott.bingebd.com:443/live/ngrp:sangeet_bangla_all/chunklist_b2128000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Dhoom Music
+https://ott.bingebd.com:443/live/ngrp:dhoom_music_all/chunklist_b2128000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Star Plus HD
+https://ott.bingebd.com:443/live/ngrp:star_plus_hd_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Star Plus
+https://ott.bingebd.com:443/live/ngrp:star_plus_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Sony HD
+https://ott.bingebd.com:443/live/ngrp:sony_all/chunklist_b2128000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Sony SAB HD
+https://ott.bingebd.com:443/live/ngrp:sab_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Zee TV
+https://ott.bingebd.com/live/ngrp:zee_tv_all/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS" ,Colors HD
+https://ott.bingebd.com:443/live/ngrp:colors_hd_all/chunklist_b8464765.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Colors (Asia)
+https://ott.bingebd.com:443/live/ngrp:colors_asia_all/chunklist_b2536446.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Star Gold HD
+https://ott.bingebd.com:443/live/ngrp:star_gold_all/chunklist_b2128000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Star Gold UK
+https://ott.bingebd.com/live/ngrp:star_gold_intl_all/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Star Gold 2
+https://ott.bingebd.com:443/live/ngrp:movies_ok_all/chunklist_b4606481.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Sony Max HD
+https://ott.bingebd.com:443/live/ngrp:sony_max_all/chunklist_b5178212.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS" ,Sony Max 2
+https://ott.bingebd.com:443/live/ngrp:sony_max_2_all/chunklist_b2128000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Discovery HD (English)
+https://ott.bingebd.com:443/live/ngrp:discovery_all/chunklist_b2807673.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Discovery Science (Hindi)
+https://ott.bingebd.com:443/live/ngrp:discovery_science_all/chunklist_b3039036.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Discovery Turbo (Hindi)
+https://ott.bingebd.com:443/live/ngrp:discovery_turbo_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Animal Planet (Hinde)
+https://ott.bingebd.com:443/live/ngrp:animal_planet_all/chunklist_b2758204.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",National Geographic HD
+https://ott.bingebd.com:443/live/ngrp:nat_geo_in_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Nat Geo Wild
+https://ott.bingebd.com:443/live/ngrp:nat_geo_wild_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Nat Geo People
+https://ott.bingebd.com/live/ngrp:nat_geo_people_all/chunklist.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",TLC HD (Hindi)
+https://ott.bingebd.com:443/live/ngrp:tlc_hd_all/chunklist_b7013554.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",TLC (English)
+https://ott.bingebd.com:443/live/ngrp:tlc_all/chunklist_b2661083.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",History TV 18
+https://ott.bingebd.com:443/live/ngrp:history_tv_hd_all/chunklist_b8287652.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Fox Life (India)
+https://ott.bingebd.com:443/live/ngrp:fox_life_all/chunklist_b2780326.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Cartoon Network (Hindi)
+https://ott.bingebd.com:443/live/ngrp:cartoon_network_all/chunklist_b2128000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",NICK HD
+https://ott.bingebd.com:443/live/ngrp:nick_hd_all/chunklist_b8432648.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",NICK (Bangla)
+https://ott.bingebd.com:443/live/ngrp:nickelodeon_all/chunklist_b2128000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Nick Jr
+https://ott.bingebd.com:443/live/ngrp:nick_jr_all/chunklist_b2514441.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Sonic (Bangla)
+https://ott.bingebd.com:443/live/ngrp:sonic_all/chunklist_b1228000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Sony Yay (Bangla)
+https://ott.bingebd.com:443/live/ngrp:sony_yay_all/chunklist_b2128000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/hvoUGDn.png" group-title="BACKUP - OTHERS TV LINKS",Discovery Kids (Hindi)
+https://ott.bingebd.com:443/live/ngrp:discovery_kids_all/chunklist_b1228000.m3u8
