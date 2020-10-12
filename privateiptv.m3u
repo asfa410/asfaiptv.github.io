@@ -1,4 +1,32 @@
 ﻿#EXTM3U 
+#EXTINF: group-title="Bangla XXX" tvg-name="Bangla",01
+https://19-10.b.cdn13.com/hls/bsd/4000/sd/8000/016/348/424/240p.h264.mp4/index.m3u8?cdn_creation_time=1602514800&cdn_ttl=14400&cdn_cv_data=103.107.135.187&cdn_hash=bb6be3352710096a1b5d73f124a7c217
+#EXTINF: group-title="Bangla XXX" tvg-name="Bangla",02
+https://video1.xhcdn.com/key=5xiXI4U6qABmKEbQ18UQuQ,end=1602529200,limit=3/data=103.107.135.155/speed=0/initial_buffer=1038464/media=hlsA/016/062/779/240p.h264.mp4
+#EXTINF: group-title="Bangla XXX" tvg-name="Bangla",03
+https://19-9.b.cdn13.com/hls/bsd/4000/sd/8000/016/356/946/144p.h264.mp4/index.m3u8?cdn_creation_time=1602514800&cdn_ttl=14400&cdn_cv_data=103.107.135.187&cdn_hash=470229424f90782aafab5e4117b08242
+#EXTINF: group-title="Bangla XXX" tvg-name="Bangla",04
+https://video.xhcdn.com/key=qWjDJrcE+pAIz0ic5zIeNA,end=1602529200,limit=3/data=103.107.135.155/speed=0/initial_buffer=1040720/media=hlsA/016/157/487/144p.h264.mp4
+#EXTINF: group-title="Bangla XXX" tvg-name="Bangla",05
+https://video.xhcdn.com/key=Lq6xWydqcS23SbltxSH1DA,end=1602529200,limit=3/data=103.107.135.155/speed=0/initial_buffer=1420480/media=hlsA/013/107/771/144p.h264.mp4
+#EXTINF: group-title="Bangla XXX" tvg-name="Bangla",06
+https://video.xhcdn.com/key=4sUdGuMFf0gYp6LMaUxXIw,end=1602529200,limit=3/data=103.107.135.155/speed=0/initial_buffer=1040720/media=hlsA/016/126/561/144p.h264.mp4
+#EXTINF: group-title="Bangla XXX" tvg-name="Bangla",07
+https://19-9.b.cdn13.com/hls/bsd/4000/sd/8000/013/462/325/144p.h264.mp4/index.m3u8?cdn_creation_time=1602514800&cdn_ttl=14400&cdn_cv_data=103.107.135.155&cdn_hash=a14c364db9df59a94b084245f948b68c
+#EXTINF: group-title="Bangla XXX" tvg-name="Bangla",08
+https://video1.xhcdn.com/key=dUsSLCrLA4rrLkzM5QgHAA,end=1602532800,limit=3/data=103.107.135.187/speed=0/initial_buffer=982816/media=hlsA/014/889/889/240p.h264.mp4
+#EXTINF: group-title="Bangla XXX" tvg-name="Bangla",09
+https://video1.xhcdn.com/key=fS0dw-0MDe-DJm9ogvc8CQ,end=1602532800,limit=3/data=103.107.135.187/speed=0/initial_buffer=1448304/media=hlsA/003/875/183/240p.h264.mp4
+#EXTINF: group-title="Bangla XXX" tvg-name="Bangla",10
+https://ev-h.phncdn.com/hls/videos/202009/29/356209472/,720P_4000K,480P_2000K,240P_400K,_356209472.mp4.urlset/index-f3-v1-a1.m3u8?validfrom=1602515698&validto=1602522898&hdl=-1&hash=g57SS6dnlH%2FNPgb7LKvpUDDPrcc%3D
+#EXTINF: group-title="Bangla XXX" tvg-name="Bangla",11
+https://cv-h.phncdn.com/hls/videos/201406/14/28114181/,200101_1315_480P_2000K,200101_1315_240P_400K,_28114181.mp4.urlset/index-f2-v1-a1.m3u8?ZSioU0Q3LmTMIZ3-ogx4gcHGxrQE_sp64I_98vA-Jt8ljyP7_JoAjapwdkS2wceOohRhuI31Oo4XZbDUy364KMw5Rvna65hTHYVwtf8DMsJlQZmpXUAl46hfMMqRQAYhw4BugDFtNQqdfdqTQ58bn3pBqh5CEf_SFLdSbtz8B_6rS5Li
+#EXTINF: group-title="Bangla XXX" tvg-name="Bangla",12
+https://cv-h.phncdn.com/hls/videos/201503/15/46146712/,191221_1543_480P_2000K,191221_1543_240P_400K,_46146712.mp4.urlset/index-f2-v1-a1.m3u8?HyYt1qBjNuXD4BQ1R-ZkRfiXKbl-vkmyDLqdWmFBTI2s2hFyxG7eSbQh6x760MLE3wvX29u3e8zjJXJPDgSbVtJboaz2YC2jhPwBZTzmFVmIQb1AC83yh5B4tfy_42W9tCeSDWl5jP1BfFqYgd9D1PtRaHhGWIkg0z3Xzqm7jjTv73HG
+#EXTINF: group-title="Bangla XXX" tvg-name="Bangla",13
+https://dv-h.phncdn.com/hls/videos/201501/13/37398671/,191224_2155_480P_2000K,191224_2155_240P_400K,_37398671.mp4.urlset/index-f2-v1-a1.m3u8?ttl=1602523164&l=0&hash=e2c801f5ecfcb0fe106172dc9706bddb
+#EXTINF: group-title="Bangla XXX" tvg-name="Bangla",14
+https://cv-h.phncdn.com/hls/videos/201704/17/113548221/,480P_2000K,240P_400K,_113548221.mp4.urlset/index-f2-v1-a1.m3u8?PRqMpDJGGqglHeRf-vrE_nYkhw6eUV_zj4VQVZcFfAIBDMadWSmo8BVISEvEojWHdAD0t1uSQBW66y5Fl-csGMPD6rJfLfDkvKb6wDYyOHRJuRfa1S44FeK_KHjWqZzerbPx6A1ifmvO3TwKFdmurBAUAErbapSJ31gNEGWKgtgZki6Q4g
 #EXTINF: group-title="LIVE XXX" tvg-name="Erotic 5" ,Erotic 5
 http://elmasteriptv.com:8000/djturbomix49@gmail.com/sDMwj2WpBM/28494
 #EXTINF: group-title="LIVE XXX" tvg-name="Fashion TV Midnite Secrets" ,Fashion TV Midnite Secrets
