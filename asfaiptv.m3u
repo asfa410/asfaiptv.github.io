@@ -1,6 +1,6 @@
 #EXTM3U 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/15/Sangsad_Television_Logo.jpg" group-title="BANGLA",Sangsad TV [BD]
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/songsodtv-world.stream/chunks.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gMml1FN.png" group-title="BANGLA", GAZI TV HD
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/BW.jpg" group-title="BANGLA",BTV WORLD [BD]
 http://103.205.133.50/hls/btvworld.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZJra7BS.jpg" group-title="BANGLA",BTV
@@ -9,8 +9,10 @@ http://103.205.133.50/hls/btv.m3u8
 http://103.205.133.50/hls/atnbangla.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/88/Channel-i.svg/384px-Channel-i.svg.png" group-title="BANGLA",CHANNEL I HD [BD]
 http://103.205.133.50/hls/ichannel.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="BANGLA",EKUSHEY TV [BD]
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="BANGLA",EKUSHEY TV
 http://103.205.133.50/hls/ekushey.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e7/ETV.jpg" group-title="BANGLA",EKUSHEY TV
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/ef/NTV_%28Bangladesh%29_logo.svg/240px-NTV_%28Bangladesh%29_logo.svg.png" group-title="BANGLA",NTV [BD]
 http://103.205.133.50/hls/ntv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/41/Rtv_bangladesh.PNG/120px-Rtv_bangladesh.PNG" group-title="BANGLA",RTV HD [BD]
@@ -61,6 +63,10 @@ http://103.205.133.50/hls/dbcnews.m3u8
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/12.m3u8
 #EXTINF:-1 tvg-logo="http://bijoy.tv/wp-content/uploads/2020/08/logo.png" group-title="BANGLA",RUPOSHI BANGLA
 http://103.205.133.50/hls/ruposhibangla.m3u8
+#EXTINF:-1 tvg-logo="http://bijoy.tv/wp-content/uploads/2020/08/logo.png" group-title="BANGLA",PROBASHI BANGLA
+http://163.172.29.246:8081/globalbd/probashi_bangla/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YJxFSMQ.jpg" group-title="BANGLA",Magic Bangla IPTV [BD]
+http://enaniptv.com/magicbanglatv/1080/index.m3u8
 #EXTINF:-1 tvg-logo="http://bijoy.tv/wp-content/uploads/2020/08/logo.png" group-title="BANGLA",BIJOY TV HD [BD]
 https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.jagobd.com/wp-content/uploads/2018/04/Anandatvupdate.jpg?x91288" group-title="BANGLA",ANANDA TV HD [BD]
@@ -83,8 +89,6 @@ http://103.205.133.50/hls/chsj.m3u8
 http://103.205.133.50/hls/zeebangla.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/mI8NHP8.jpg" group-title="INDIAN BANGLA", Zee Bangla
 http://ctgiptv.kitv.live:1935/live/test/test1/26.ts
-#EXTINF: -1 tvg-logo="https://i.imgur.com/mI8NHP8.jpg" group-title="INDIAN BANGLA", Zee Bangla
-http://global.thunderbd.com/34/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/bAFFpB0.jpg" group-title="INDIAN BANGLA", Sony Aath
 http://103.205.133.50/hls/sony8.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/BpywPyU.jpg" group-title="INDIAN BANGLA", Jalsha Movies
@@ -96,7 +100,9 @@ http://103.205.133.50/hls/etvbangla.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", Akash Ath TV
 http://global.thunderbd.com/32/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", Zee Bangla Cinema
-http://mhdtvworld.net:80/xyz/zee5m3u8.m3u8?c=http://z5ams.akamaized.net/zbanglacnm/tracks-v1a1/index.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pQT1shs.jpg" group-title="INDIAN BANGLA",DD Bangla [IN]
+https://load.airtelxstream.in/ddbangla/smil:common.smil/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/Bv15SDQ.png" group-title="INDIAN BANGLA", News 18 Bangla
 https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?checkedby:hlscat.com
 #EXTINF: -1 tvg-logo="https://i.imgur.com/p7eks1U.jpg" group-title="HINDI ENTERTAIN", Star plus
@@ -112,21 +118,15 @@ http://103.205.133.50/hls/andtv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/9yZFIAW.png" group-title="HINDI ENTERTAIN", SONY SAB
 http://dx3.gcdn.co/hindi-SONYSABHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="HINDI MOVIE",Zee Cinema
-https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="HINDI MOVIE",Zee Cinema UK
-https://y5w8j4a9.ssl.hwcdn.net/cinemauk/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png" group-title="HINDI MOVIE",Zee Cinema ME
-https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8 
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="HINDI MOVIE",Zee Cinema HD (1)
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" group-title="HINDI MOVIE",Zee Cinema HD (2)
-http://global.thunderbd.com/76/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" group-title="HINDI MOVIE",Zee Bollywood
-https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="HINDI MOVIE",Zee Action
-https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8 
-#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/386x386/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE",Zee Anmol Cinema
-https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+http://103.102.136.106:8080/cmcltv/tcm_zeecinema.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIE",SONY MAX
+http://103.102.136.106:8080/cmcltv/tcm_sonymax.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="HINDI MOVIE",SONY MAX HD
+http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIE",SONY MAX
+https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIE",Sony MAX2
+http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" group-title="HINDI MOVIE",& Picture
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-pictures/list/386x386/09picturespictures.png" group-title="HINDI MOVIE",& Picture
@@ -137,12 +137,12 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
 http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="HINDI MOVIE",Star gold select HD
 http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/2hPF1YB.png" group-title="HINDI MOVIE",SONY MAX HD
-http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YHa03Rq.png" group-title="HINDI MOVIE",SONY MAX
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0piOCHd.png?1" group-title="HINDI MOVIE",Sony MAX2
-http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeclassic/list/386x386/09zeeclassiczeebollywood.png" group-title="HINDI MOVIE",Zee Bollywood
+https://y5w8j4a9.ssl.hwcdn.net/classic/index.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/386x386/09zeeactionzeeaction.png" group-title="HINDI MOVIE",Zee Action
+https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
+#EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/386x386/09zeeanmolcinemazeeanmolci.png" group-title="HINDI MOVIE",Zee Anmol Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE",WoW CINEMA
 https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE",BOX CINEMA
@@ -181,9 +181,7 @@ http://anytv.live:8080/saiful/saiful/340
 https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/RvllpXU.jpg" group-title="INFOTAINMENT & LIFESTYLE", Fox Life HINDI
 https://ott.bingebd.com:443/live/ngrp:fox_life_all/chunklist_b2780326.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/RvllpXU.jpg" group-title="INFOTAINMENT & LIFESTYLE", Living Foodz HINDI
-http://z5amshls.akamaized.net/livingfoodz/tracks-v1a1/index.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/RvllpXU.jpg" group-title="INFOTAINMENT & LIFESTYLE", Food Channel
+#EXTINF: -1 tvg-logo="https://i.imgur.com/RvllpXU.jpg" group-title="INFOTAINMENT & LIFESTYLE", Food Network
 http://5.135.92.133:52841/out/u/502_1.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qb9ntHs.png" group-title="INFOTAINMENT & LIFESTYLE", History TV HD
 https://ott.bingebd.com:443/live/ngrp:history_tv_hd_all/chunklist_b8287652.m3u8
@@ -201,12 +199,8 @@ https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", RT Documentary
 http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8?@amarnettv.live
-#EXTINF: -1 tvg-logo="https://i.imgur.com/GLOUjd6.jpg" group-title="KIDS-CARTOONS", Cartoon Network
-http://global.thunderbd.com/79/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", NICK (Bangla)
-http://global.thunderbd.com/55/tracks-v1a1/mono.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", NICK (Hindi)
-http://ov100.novacdn.xyz/nmbkxvrteswazx/9780854213567/6519?token=SRJYAhFRRlgVUwtQAgpXUgMCDFFXUAVSBQJSUFQGBVUBBlZbAAwCUgRBHkYSRhRUUFhmW1UWXgIGAFtIEhYVB0BvWQdAA0ZQD1cGUlkQShNFXFRXEw5VAQoFW1wEV1JTHhJACgYbXgxCD15IQ1ceRVRHV1NdawBRRVoBARJZCBdeXBxBDVc7BlIOUwoFEFwTABcVEFhHFBYJXRcIXE9EAFtEQgIWXEZYWRZeCE0QBV5EW01ASBZeFnF3QEgSBh4WV15DCg1XRlgVF0FGTRAPQm5HXEFFRgFVXlYQRgpBVkAeEl0CGmYHDVkNVwcVWwlfQhcDEAAWSBZeXAwNRAwUPUJZVEFYVxEOWx4=
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GLOUjd6.jpg" group-title="KIDS-CARTOONS", TOM & JERRY
+http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Tom.and.Jerry.Willy.Wonka.and.the.Chocolate.Factory.2017.720p.WEB-DL.TR.mkv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", discovery kids (Hindi)
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Disney
@@ -215,8 +209,6 @@ http://45.249.187.238:8081/hls/live0.m3u8
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", TCT Kids
-http://bcoveliveios-i.akamaihd.net/hls/live/206632/1997976452001/FamilyHLS/FamilyHLS_Live_1200.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", IPL LIVE
 https://www.youtube.com/watch?v=a50gLTFzO60
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1
