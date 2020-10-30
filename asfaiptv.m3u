@@ -211,16 +211,24 @@ https://streamitv.multitvsolution.in/idvo/turboeng.m3u8
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/kjYgwyH.png" group-title="INFOTAINMENT & LIFESTYLE", RT Documentary
 http://rt-doc.secure.footprint.net:80/1101_2500Kb.m3u8?@amarnettv.live
-#EXTINF: -1 tvg-logo="https://i.imgur.com/GLOUjd6.jpg" group-title="KIDS-CARTOONS", TOM & JERRY
-http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Tom.and.Jerry.Willy.Wonka.and.the.Chocolate.Factory.2017.720p.WEB-DL.TR.mkv
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", discovery kids (Hindi)
-https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Disney
-http://45.249.187.238:8081/hls/live0.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/GLOUjd6.jpg" group-title="KIDS-CARTOONS", Cartoon Network
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/148
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Nick
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/201
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Hungama
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/766
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Shemaroo Kids
 https://livechannel.shemaroome.com/linearplayout/kids-linear-channel/chunklist_640x360_cf.m3u8?@amarnettv.live
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Discovery Kids
-https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/177
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Sony YaY
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/734
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", ANIMAX
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/716
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", AniPlus
+http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/717
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Tom & Jerry
+http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Tom.and.Jerry.Willy.Wonka.and.the.Chocolate.Factory.2017.720p.WEB-DL.TR.mkv
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", IPL LIVE
 https://www.youtube.com/watch?v=a50gLTFzO60
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1
