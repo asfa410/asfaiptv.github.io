@@ -141,6 +141,12 @@ https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 http://103.205.133.50/hls/andpicture.m3u8
 #EXTINF:-1 tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png" group-title="HINDI MOVIE",& Picture HD
 https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Zee Bioskop
+http://210.210.155.35/qwr9ew/s/s32/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", B4U KADAK
+http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/Stream(01)/index.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/yvwOnHw.png" group-title="HINDI MOVIE", Big Magic
+http://z5amshls.akamaized.net/bigmagic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Star_Gold_2011.png" group-title="HINDI MOVIE",Star gold HD
 http://dx3.gcdn.co/hindi-STARGOLDHDindia/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-gold-logo-D1A2937F35-seeklogo.com.png" group-title="HINDI MOVIE",Star gold select HD
@@ -183,6 +189,8 @@ http://otv.ftpbd.net/streams/121/index.m3u8
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/79v57ck.jpg" group-title="INFOTAINMENT & LIFESTYLE", National Geographic
 http://bdvisioniptv.ddns.net:25461/live/nashahz/bd101/138.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/qb9ntHs.png" group-title="INFOTAINMENT & LIFESTYLE", History TV 18 [HINDI]
+http://webo.asia/jVy4FsreTT/gossekt8nV/14157
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qb9ntHs.png" group-title="INFOTAINMENT & LIFESTYLE", History TV HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qb9ntHs.png" group-title="INFOTAINMENT & LIFESTYLE", History
@@ -229,10 +237,16 @@ http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/716
 http://digiiptv.ddns.net:25461/restream20/FR2csGYizY/717
 #EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Tom & Jerry
 http://vod.tsvipsmart.eu/turkishcinemamovies/Cocuk/Tom.and.Jerry.Willy.Wonka.and.the.Chocolate.Factory.2017.720p.WEB-DL.TR.mkv
+#EXTINF: -1 tvg-logo="https://i.imgur.com/R8B4ILF.png" group-title="KIDS-CARTOONS", Motu Patluu hong kong
+https://stecan.mindbox.workers.dev/0:/Motu%20patluu%20hongkong.mp4
 #EXTINF: -1 tvg-logo="https://i.imgur.com/oCKG86e.png" group-title="SPORTS", IPL LIVE
 https://www.youtube.com/watch?v=a50gLTFzO60
 #EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1
 http://113.212.111.246:8080/hls/col2.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 1 [HINDI]
+https://tivimateplaylists.live/starsportshindin
+#EXTINF: -1 tvg-logo="https://i.imgur.com/gcrYxjd.jpg" group-title="SPORTS", Star Sports 01 [HINDI]
+http://webo.asia/jVy4FsreTT/gossekt8nV/16906
 #EXTINF:-1 tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecafehd/list/386x386/09zeecafehdzeecaf_hd.png" group-title="ENGLISH MOVIE",Zee Cafe HD
 https://y5w8j4a9.ssl.hwcdn.net/zeecafehd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Zee_Caf%C3%A9_2017.svg/revision/latest/scale-to-width-down/340?cb=20200316145807" group-title="ENGLISH MOVIE",Zee Cafe
