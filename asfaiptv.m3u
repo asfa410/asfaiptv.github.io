@@ -183,8 +183,6 @@ https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
 https://streamitv.multitvsolution.in/idvo/tlceng.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/79v57ck.jpg" group-title="INFOTAINMENT & LIFESTYLE", Discovery [BANGLA]
 https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/79v57ck.jpg" group-title="INFOTAINMENT & LIFESTYLE", Discovery-Bangla
-http://otv.ftpbd.net/streams/121/index.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/79v57ck.jpg" group-title="INFOTAINMENT & LIFESTYLE", Discovery Hindi
 https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/79v57ck.jpg" group-title="INFOTAINMENT & LIFESTYLE", National Geographic
@@ -192,7 +190,7 @@ http://bdvisioniptv.ddns.net:25461/live/nashahz/bd101/138.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qb9ntHs.png" group-title="INFOTAINMENT & LIFESTYLE", History TV 18 [HINDI]
 http://webo.asia/jVy4FsreTT/gossekt8nV/14157
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qb9ntHs.png" group-title="INFOTAINMENT & LIFESTYLE", History TV HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/86.ts
+https://ott.bingebd.com:443/live/ngrp:history_tv_hd_all/chunklist.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/qb9ntHs.png" group-title="INFOTAINMENT & LIFESTYLE", History
 http://84.22.43.246:8000/play/a02h
 #EXTINF: -1 tvg-logo="https://i.imgur.com/7ft131E.jpg" group-title="INFOTAINMENT & LIFESTYLE", ANIMAL PLANET HD [HINDI]
